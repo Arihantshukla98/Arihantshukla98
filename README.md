@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arihant shukla</h1> 
-<h3 align="center">🚀 Passionate  Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3> <p align="center">
+
+
 Email Me 👉 ✉️ **Arihantshukla24@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukla__._ji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Arihantshukla24@gmail.com) 
