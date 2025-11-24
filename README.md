@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **Arihantshukla24@gmail.com** For Collaboration/Project or 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg/github-contribution-grid-snake-dark" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Animation" />
 </div>
 
 # 📊 GitHub Stats:
