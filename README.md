@@ -52,7 +52,7 @@
 
 <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Arihantshukla98&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihantshukla98&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arihantshukla98&theme=tokyonight"/>
 
 <br/><br/>
 
@@ -60,11 +60,7 @@
 
 </div>
 
----
 
-
-
----
 
 ## 🎯 Coding Activity
 
