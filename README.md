@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-shukla-a4676b337)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arihantshukla24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-shukla-a4676b337)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Arihantshukla24@gmail.com)
 
 </div>
 
@@ -50,22 +50,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arihantshukla98&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=false&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihantshukla98&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Arihantshukla98&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihantshukla98&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12&cache_seconds=1800"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Arihantshukla98&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=Arihantshukla98&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-## 🏆 Hall of Fame
+
+
+---
+
+## 🎯 Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arihantshukla98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihantshukla98&theme=tokyo-night&hide_border=true&radius=8&area=true" />
 
 </div>
 
