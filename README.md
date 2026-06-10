@@ -16,7 +16,7 @@
 
 - 🔭 Currently building **Full Stack Web Apps**
 - 🌱 Learning **DSA with C++ & Java**
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 Ask me about **React, JavaScript,Java**
 - 📫 Reach me at **Arihantshukla24@gmail.com**
 - ⚡ Fun fact: *I debug with console.log and I'm not ashamed*
 
@@ -63,18 +63,7 @@
 
 ---
 
-## 🏆 Hall of Fame
 
-<div align="center">
-
-![MultiLingual](https://img.shields.io/badge/🏆%20MultiLingual-C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20JS%20%7C%20Python-gold?style=flat-square)
-![FullStack](https://img.shields.io/badge/🥇%20Full%20Stack-React%20%2B%20Node%20%2B%20SQL-blue?style=flat-square)
-![OpenSource](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-brightgreen?style=flat-square)
-![DSA](https://img.shields.io/badge/⚔️%20DSA-Problem%20Solver-orange?style=flat-square)
-![WebDev](https://img.shields.io/badge/💻%20Web%20Dev-HTML%20%7C%20CSS%20%7C%20Tailwind-blueviolet?style=flat-square)
-![Database](https://img.shields.io/badge/🗄️%20Database-MySQL%20%7C%20SQLite-teal?style=flat-square)
-
-</div>
 
 ---
 
